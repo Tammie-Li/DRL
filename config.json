@@ -1,0 +1,24 @@
+{
+    "dataset":  
+    {
+        "name": "Public",    
+        "subject_num": 1,
+        "pairNum": 20000,
+        "channel": 64
+    },
+    "train_para":
+    {
+        "batchsize_stage_1" : 1024,
+        "batchsize_stage_2" : 128,
+        "epoch_stage_1" : 60,
+        "epoch_stage_2" : 20
+    },
+    "model_para":
+    {
+        "F1": 8, 
+        "F2": 2,
+        "D": 1,
+        "kernel_size": 3,
+        "droup_out": 0.6
+    }
+}
