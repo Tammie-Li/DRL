@@ -1,4 +1,3 @@
-
 ## Introduction
 
 This is the implementation for [Decoupling Representation Learning for Imbalanced Electroencephalography Classification in Rapid Serial Visual Presentation Task]() in [Journal of Neural Engineering](https://iopscience.iop.org/journal/1741-2552).
@@ -11,6 +10,7 @@ This project is released under the [Apache 2.0 license](https://github.com/daoda
 
 ## Paradigm
 
+![paradigm](Media/paradigm.gif "paradigm")
 
 ## Installation
 
