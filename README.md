@@ -1,6 +1,6 @@
 ## Introduction
 
-This is the implementation for [Decoupling Representation Learning for Imbalanced Electroencephalography Classification in Rapid Serial Visual Presentation Task]() in [Journal of Neural Engineering](https://iopscience.iop.org/journal/1741-2552).
+This is the implementation for [Decoupling Representation Learning for Imbalanced Electroencephalography Classification in Rapid Serial Visual Presentation Task](https://iopscience.iop.org/article/10.1088/1741-2552/ac6a7d/meta) in [Journal of Neural Engineering](https://iopscience.iop.org/journal/1741-2552).
 
 ![DRL.png](Media/DRL.png "DRL architecture")
 
