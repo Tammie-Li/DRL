@@ -62,19 +62,17 @@ scipy >= 1.6.2
 ## Citation
 
 If you use this toolbox or benchmark in your research, please cite this project.
-   ```
-   {
-      @article{Li_2022,
-      doi = {10.1088/1741-2552/ac6a7d},
-      url = {https://doi.org/10.1088/1741-2552/ac6a7d},
-      year = 2022,
-      month = {may},
-      publisher = {{IOP} Publishing},
-      volume = {19},
-      number = {3},
-      pages = {036011},
-      author = {Fu Li and Hongxin Li and Yang Li and Hao Wu and Boxun Fu and Youshuo Ji and Chong Wang and Guangming Shi},
-      title = {Decoupling representation learning for imbalanced electroencephalography classification in rapid serial visual presentation task},
-      journal = {Journal of Neural Engineering},
-   }
+   ```bib
+   @article{Li_2022,
+   doi = {10.1088/1741-2552/ac6a7d},
+   url = {https://doi.org/10.1088/1741-2552/ac6a7d},
+   year = 2022,
+   month = {may},
+   publisher = {{IOP} Publishing},
+   volume = {19},
+   number = {3},
+   pages = {036011},
+   author = {Fu Li and Hongxin Li and Yang Li and Hao Wu and Boxun Fu and Youshuo Ji and Chong Wang and Guangming Shi},
+   title = {Decoupling representation learning for imbalanced electroencephalography classification in rapid serial visual presentation task},
+   journal = {Journal of Neural Engineering}}
    ```
